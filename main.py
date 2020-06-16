@@ -1,3 +1,3 @@
 code 1
-line 2
+lissss ne 2
 line 3
